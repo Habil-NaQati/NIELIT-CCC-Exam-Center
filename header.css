@@ -1,0 +1,28 @@
+.header:hover
+{
+cursor: none;
+}
+.header{
+	color: black; 
+	font-size: 26px;
+	 letter-spacing: 2px;"
+	 font-family: arial, sans-serif;
+	 text-align: justify;
+	 font-weight: bold;
+	 text-shadow: 1px 1px 2px 3px black;
+}
+
+
+.submit{
+	font-size: 16px; background-color: inherit; letter-spacing: 1px; font-weight: bold; font-style:italic;
+
+
+text-align: center;
+
+	 font-family:fontawesome;  border: 1px solid #dddddd; color:gray; border-radius: 5px;"
+}
+.submit:hover{
+
+	color:black;
+	cursor: pointer;
+}
